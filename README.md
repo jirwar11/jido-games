@@ -1,6 +1,6 @@
 # 🎮 Jido Games  
 
-Jido Games is a **free browser-based gaming website** inspired by Poki.  
+Jido Games is a **free browser-based gaming website**
 It hosts **100+ fun HTML5 games** that you can play instantly online — no downloads required!  
 
 ## 🌟 Features
